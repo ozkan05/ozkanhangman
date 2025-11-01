@@ -1,0 +1,15 @@
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\bin\Debug\ozkandagli hangman.exe.config
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\bin\Debug\ozkandagli hangman.exe
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\bin\Debug\ozkandagli hangman.pdb
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\ozkandagli hangman.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\App.g.cs
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\ozkandagli hangman_MarkupCompile.cache
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\MainWindow.baml
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\ozkandagli hangman.g.resources
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\ozkandagli_hangman.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\ozkandagli hangman.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\ozkandagli hangman.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\ozkandagli hangman.exe
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\ozkandagli hangman.pdb
+C:\Users\Utilisateur\source\repos\ozkan05\ozkandagli-hangman\ozkandagli hangman\obj\Debug\ozkandagli hangman_Content.g.cs
