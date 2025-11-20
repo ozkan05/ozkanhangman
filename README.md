@@ -12,3 +12,10 @@
 ⏱️ Timer intégré Chaque partie dure 3 minutes. Le temps s’affiche sous le format MM:SS. Si le temps expire → Game Over.
 
 🎨 Interface visuelle dynamique Images du pendu selon l'état Images des vies Mise à jour du mot affiché avec * puis lettres découvertes
+
+personne qui on testé:
+
+mes parent: il on dit que c'etatit pas mal 
+
+mes pote en sio2: ils ont dit que c'était vraiment bien fait
+
